@@ -10,7 +10,7 @@
 <li>Downlod the zip file</li>
 <li>Unzip the file on your desktop</li>
 <li>Open in VScode</li>
-<li>Open terminal and run the command '''cd Api''' and then 'dotnet watch run'</li>
+<li>Open terminal and run the command ```cd Api``` and then 'dotnet watch run'</li>
 <p2>the swaggerUI site will open where you can check if your API is working fine or not</p2>
 <li>Open another terminal and run command 'cd client' and then 'ng serve'</li>
 <li>You'll see your aplication running on 'http://localhost:4200/student/form'</li>
