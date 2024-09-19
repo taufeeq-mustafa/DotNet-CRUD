@@ -15,5 +15,5 @@
 <li>Open another terminal and run command 'cd client' and then 'ng serve'</li>
 <li>You'll see your aplication running on 'http://localhost:4200/student/form'</li>
 
-This project was built by [Taufeeq](www.linkedin.com/in/s-taufeeq-mustafa-281a13221).
+This project was built by [Taufeeq](https://github.com/taufeeq-mustafa/).
 
